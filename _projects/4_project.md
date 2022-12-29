@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: The Ostal Project
+description: an ongoing art project
+img: assets/img/ostal.png
 importance: 3
-category: fun
+category: art
 ---
 
 Every project has a beautiful feature showcase page.
