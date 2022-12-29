@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Website created.
+Personal website goes live!

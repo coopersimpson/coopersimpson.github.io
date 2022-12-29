@@ -13,14 +13,9 @@
   contents:
     - title: Bachelor of Physiotherapy (Honours)
       institution: The University of Queensland, Brisbane, Australia
-      year: 2020
+      year: 2017 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - <b>Grade:</b> Honours class IIA
 
 - title: Work Experience
   type: time_table
@@ -69,4 +64,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Hobbies:</ub> 3D animation, music production, running, personal knowledge management systems.
