@@ -46,13 +46,15 @@ In May of 2020, I began to explore <a href="https://en.wikipedia.org/wiki/Non-fu
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/enclave.png" title="Enclave" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/red-tide.jpg" title="Red Tide" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    "Enclave" (2021) pictured on the left, "Red Tide" (2021) pictured on the right.
 </div>
 
 <<<<<<< HEAD:_projects/4_project.md
@@ -78,3 +80,5 @@ Here's the code for the last row of images above:
 =======
 Blah blah, a bit more about process and software used. dot points?
 >>>>>>> e86b7e72 (Update projects, remove CV):_projects/theostalproject.md
+
+My process involves the use a variety of software packages, namely Houdini, Cinema 4D, Octane Render and Ableton.
