@@ -14,7 +14,7 @@ category: art
         {% include figure.html path="assets/img/MATRIX.jpg" title="MATRIX" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/kolpose.jpg" title="kolpose" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/kolpose.png" title="kolpose" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ROSE_GOLD.jpg" title="Rose Gold" class="img-fluid rounded z-depth-1" %}
@@ -45,7 +45,7 @@ In May of 2020, I began to explore <a href="https://en.wikipedia.org/wiki/Non-fu
 
 <div class="row justify-content-sm-center align-items-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/GANGSHIT.png" title="GANGSHIT" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/GANGSHIT.jpg" title="GANGSHIT" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/red-tide.jpg" title="Red Tide" class="img-fluid rounded z-depth-1" %}
