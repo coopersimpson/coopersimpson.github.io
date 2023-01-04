@@ -27,7 +27,7 @@ latest_posts:
 
 ## about me
 
-Practicing physiotherapist and self taught software developer looking to break into the tech industry. I plan to use this website as a home base to share blog posts on a variety of topics as well as showcase my projects.
+A physiotherapist on a journey of learning how to make computers do things. I plan to use this website as somewhere I can share my thoughts on a variety of topics and document my journey as a developer, as well as showcase any projects I happen to work on.
 
 ##### interests
 <ul>
