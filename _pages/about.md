@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physiotherapist learning software development.
+subtitle: Software Developer
 
 profile:
   align: right
@@ -17,22 +17,20 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  # if scrollable dont work - https://github.com/alshedivat/al-folio/discussions/2620
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 ## about me
 
-A physiotherapist on a journey of learning how to make computers do things. I plan to use this website as somewhere I can share my thoughts on a variety of topics and document my journey as a developer, as well as showcase any projects I happen to work on.
+Graduate software developer.
 
-##### interests
-<ul>
-    <li>3D art</li>
-    <li>Personal knowledge management (PKM) systems</li>
-    <li>Running and mobility training</li>
-    <li>Chinese language</li>
-</ul>
+##### current interests
+- Android and iOS development
+- Kotlin
+- Nix

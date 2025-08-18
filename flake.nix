@@ -17,6 +17,7 @@
           buildInputs = [
             pkgs.ruby
             pkgs.bundler
+            (pkgs.python3.withPackages (ps: with ps; [ notebook ]))
           ];
 
           shellHook = ''

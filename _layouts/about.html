@@ -56,9 +56,9 @@ layout: default
         {% include social.html %}
       </div>
 
-      <div class="contact-note">
-        <a href="{{ site.contact_note }}" title="public-key.txt">public-key.txt</a>
-      </div>
+    <div class="contact-note">
+      <a href="{{ site.contact_note | relative_url }}" title="Download public key">public-key.txt</a>
+    </div>
 
     </div>
     {%- endif %}

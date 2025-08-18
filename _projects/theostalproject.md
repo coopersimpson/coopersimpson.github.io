@@ -11,13 +11,13 @@ category: art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MATRIX.jpg" title="MATRIX" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/MATRIX.jpg" title="MATRIX" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/kolpose.png" title="kolpose" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/kolpose.png" title="kolpose" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ROSE_GOLD.jpg" title="Rose Gold" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ROSE_GOLD.jpg" title="Rose Gold" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -28,55 +28,25 @@ The Ostal Project was founded in 2015. Early on I focused my efforts on producin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/enclave.png" title="Enclave" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/enclave.png" title="Enclave" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     "Enclave" (2021)
 </div>
 
-<<<<<<< HEAD:_projects/4_project.md
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-=======
 In May of 2020, I began to explore <a href="https://en.wikipedia.org/wiki/Non-fungible_token">NFTs</a> and the world of cryptoart. I applied for the <a href="https://superrare.com/">SuperRare</a> platform and was accepted. I minted my genesis piece on SuperRare in May of 2020, and have since minted and sold a variety of works on the Ethereum blockchain.
->>>>>>> e86b7e72 (Update projects, remove CV):_projects/theostalproject.md
 
 <div class="row justify-content-sm-center align-items-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/GANGSHIT.jpg" title="GANGSHIT" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/GANGSHIT.jpg" title="GANGSHIT" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/red-tide.jpg" title="Red Tide" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/red-tide.jpg" title="Red Tide" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     "GANGSHIT" (2018), "Red Tide" (2021)
 </div>
-
-<<<<<<< HEAD:_projects/4_project.md
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
-=======
-Blah blah, a bit more about process and software used. dot points?
->>>>>>> e86b7e72 (Update projects, remove CV):_projects/theostalproject.md
 
 My process involves the use a variety of software packages, namely Houdini, Cinema 4D, Octane Render and Ableton.

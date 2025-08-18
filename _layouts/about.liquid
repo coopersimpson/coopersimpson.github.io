@@ -69,7 +69,9 @@ layout: default
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-note">
+          <a href="{{ '/assets/public-key.txt' | relative_url }}" title="Download public key">public-key.txt</a>
+        </div>
       </div>
     {% endif %}
 
