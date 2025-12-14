@@ -5,6 +5,7 @@ date:   2023-01-04
 description: Take value in the advice of our knowledge workers
 tags:
 giscus_comments: false
+published: false
 ---
 
 We live in a world in which people are increasingly [knowledge workers](https://en.wikipedia.org/wiki/Knowledge_worker). Many of us now use our minds rather than our hands to provide a service. Knowledge workers don't always provide a tangible good, they provide information and advice. This gives people the impression that it's not a big deal to ask for free advice. 
