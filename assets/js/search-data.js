@@ -16,22 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Selected personal projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "post-availability-of-information-results-in-reduced-appreciation-for-knowledge-workers",
+        },{id: "post-testing-kotlin-coroutines-inside-viewmodels",
         
-          title: "Availability of information results in reduced appreciation for knowledge workers",
+          title: "Testing Kotlin coroutines inside ViewModels",
         
-        description: "Take value in the advice of our knowledge workers",
+        description: "best practices for coroutine testing in Android",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/availability-of-information-results-in-reduced-appreciation-for-knowledge-workers/";
+            window.location.href = "/blog/2025/testing-kotlin-coroutines-inside-viewmodels/";
           
         },
       },{id: "books-the-godfather",
@@ -54,37 +47,10 @@ ninja.data = [{
           section: "News",},{id: "news-started-my-role-as-a-digital-graduate-at-services-australia",
           title: 'Started my role as a digital graduate at Services Australia',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-online-outcome-measures",
-          title: 'Online Outcome Measures',
-          description: "orthopedic outcome measures for clinicians and patients",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/online-outcome-measures/";
-            },},{id: "projects-the-ostal-project",
-          title: 'The Ostal Project',
-          description: "an ongoing art project",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/theostalproject/";
-            },},{id: "projects-three-dash",
-          title: 'Three Dash',
-          description: "WebGL game",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/three-dash/";
-            },},{
+          section: "News",},{id: "news-promoted-to-software-developer-android-at-services-australia",
+          title: 'Promoted to Software Developer (Android) at Services Australia',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
